@@ -1,0 +1,16 @@
+[SUCCESS] Correct answer to Question 1? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 2? [0.5]: 0.5
+[SUCCESS] Correct answer to Question 3? [0.75]: 0.75
+[SUCCESS] Correct answer to Question 4? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 5? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 6? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 7? [0.5]: 0.5
+[SUCCESS] Correct answer to Question 8? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 9? [0.25]: 0.25
+[SUCCESS] Correct answer to Question 10? [0.5]: 0.5
+[SUCCESS] Correct answer to Question 11? [1]: 1
+[SUCCESS] Correct answer to Question 12? [0.75]: 0.75
+[FAILED] Trace local network traffic? [0.5]: 0
+Factor: 1.0
+Earned score: 5.5
+Total score: 5.5
