@@ -1,0 +1,75 @@
+Processor Count: 1,  Iterations(n): 128 and Time: 0.024796 
+Calculated Pi: 3.141597739852815, Error: 0.000005086263021 
+<------------------------------------>
+Processor Count: 1,  Iterations(n): 1024 and Time: 0.038147 
+Calculated Pi: 3.141592733062653, Error: 0.000000079472859 
+<------------------------------------>
+Processor Count: 1,  Iterations(n): 8192 and Time: 0.140190 
+Calculated Pi: 3.141592654831557, Error: 0.000000001241764 
+<------------------------------------>
+Processor Count: 1,  Iterations(n): 65536 and Time: 0.955105 
+Calculated Pi: 3.141592653609176, Error: 0.000000000019383 
+<------------------------------------>
+Processor Count: 1,  Iterations(n): 1048576 and Time: 14.864922 
+Calculated Pi: 3.141592653589792, Error: 0.000000000000001 
+<------------------------------------>
+Processor Count: 2,  Iterations(n): 128 and Time: 1.432896 
+Calculated Pi: 3.141597739852814, Error: 0.000005086263021 
+<------------------------------------>
+Processor Count: 2,  Iterations(n): 1024 and Time: 1.199961 
+Calculated Pi: 3.141592733062653, Error: 0.000000079472860 
+<------------------------------------>
+Processor Count: 2,  Iterations(n): 8192 and Time: 1.080036 
+Calculated Pi: 3.141592654831554, Error: 0.000000001241761 
+<------------------------------------>
+Processor Count: 2,  Iterations(n): 65536 and Time: 1.583099 
+Calculated Pi: 3.141592653609199, Error: 0.000000000019406 
+<------------------------------------>
+Processor Count: 2,  Iterations(n): 1048576 and Time: 8.682966 
+Calculated Pi: 3.141592653589812, Error: 0.000000000000019 
+<------------------------------------>
+Processor Count: 4,  Iterations(n): 128 and Time: 2.703905 
+Calculated Pi: 3.141597739852814, Error: 0.000005086263021 
+<------------------------------------>
+Processor Count: 4,  Iterations(n): 1024 and Time: 2.052069 
+Calculated Pi: 3.141592733062653, Error: 0.000000079472860 
+<------------------------------------>
+Processor Count: 4,  Iterations(n): 8192 and Time: 2.050161 
+Calculated Pi: 3.141592654831557, Error: 0.000000001241764 
+<------------------------------------>
+Processor Count: 4,  Iterations(n): 65536 and Time: 2.682924 
+Calculated Pi: 3.141592653609206, Error: 0.000000000019413 
+<------------------------------------>
+Processor Count: 4,  Iterations(n): 1048576 and Time: 5.571842 
+Calculated Pi: 3.141592653589904, Error: 0.000000000000111 
+<------------------------------------>
+Processor Count: 8,  Iterations(n): 128 and Time: 2.444029 
+Calculated Pi: 3.141597739852814, Error: 0.000005086263021 
+<------------------------------------>
+Processor Count: 8,  Iterations(n): 1024 and Time: 2.543926 
+Calculated Pi: 3.141592733062653, Error: 0.000000079472860 
+<------------------------------------>
+Processor Count: 8,  Iterations(n): 8192 and Time: 2.419949 
+Calculated Pi: 3.141592654831558, Error: 0.000000001241765 
+<------------------------------------>
+Processor Count: 8,  Iterations(n): 65536 and Time: 2.902985 
+Calculated Pi: 3.141592653609194, Error: 0.000000000019401 
+<------------------------------------>
+Processor Count: 8,  Iterations(n): 1048576 and Time: 6.570101 
+Calculated Pi: 3.141592653589861, Error: 0.000000000000068 
+<------------------------------------>
+Processor Count: 16,  Iterations(n): 128 and Time: 4.901886 
+Calculated Pi: 3.141597739852814, Error: 0.000005086263021 
+<------------------------------------>
+Processor Count: 16,  Iterations(n): 1024 and Time: 4.138947 
+Calculated Pi: 3.141592733062653, Error: 0.000000079472859 
+<------------------------------------>
+Processor Count: 16,  Iterations(n): 8192 and Time: 4.028797 
+Calculated Pi: 3.141592654831556, Error: 0.000000001241763 
+<------------------------------------>
+Processor Count: 16,  Iterations(n): 65536 and Time: 4.302025 
+Calculated Pi: 3.141592653609196, Error: 0.000000000019403 
+<------------------------------------>
+Processor Count: 16,  Iterations(n): 1048576 and Time: 9.763956 
+Calculated Pi: 3.141592653589871, Error: 0.000000000000078 
+<------------------------------------>
