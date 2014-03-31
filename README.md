@@ -1,7 +1,7 @@
 homework
 ========
 
-Projects done at UIC
+Some of the projects done at UIC
 
 Fall13 - Introduction to networking
 
