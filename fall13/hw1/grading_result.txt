@@ -1,0 +1,19 @@
+[SUCCESS] files submitted using git? [1.5]: 1.5
+[SUCCESS] index.html created for http://www.google.com? [0.25]: 0.25
+[SUCCESS] index.html created for http://ipv6.google.com? [0.5]: 0.5
+[SUCCESS] exit with error for http://library.corporate-ir.net/library/17/176/176060/mediaitems/93/a.com_logo_RGB.jpg? [0.75]: 0.75
+[SUCCESS] images_logo_lg.gif created for http://images.google.com/intl/en_ALL/images/logos/images_logo_lg.gif? [0.25]: 0.25
+[SUCCESS] chord_sigcomm.pdf created for http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf? [0.25]: 0.25
+[SUCCESS] exit with error for http://www.google.com/thispagedoesnotexist? [0.25]: 0.25
+[SUCCESS] exit with error for http://www.thissitedoesnotexist1000.com? [0.25]: 0.25
+[SUCCESS] exit with error for http://www.skype.com? [0.25]: 0.25
+[SUCCESS] images_logo_lg.gif size correct? [0.25]: 0.25
+[SUCCESS] chord_sigcomm.pdf size correct? [0.25]: 0.25
+[SUCCESS] images_logo_lg.gif content correct? [0.25]: 0.25
+[SUCCESS] chord_sigcomm.pdf content correct? [0.25]: 0.25
+[SUCCESS] B007HCCNJU created for http://www.amazon.com/dp/B007HCCNJU? [0.25]: 0.25
+[SUCCESS] index.html created for http://www.amazon.com/dp/B007HCCNJU/? [0.25]: 0.25
+[SUCCESS] exit with http://www.adorama.com/alc/0012691/article/Lenses-Product-Reviews-AdoramaTV? [0.25]: 0.25
+Parameter: 1.0
+Earned score: 6
+Total score: 6.0
