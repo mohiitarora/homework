@@ -1,0 +1,43 @@
+#!/bin/bash
+# script to generate other scripts
+#rm script_temp
+for n in "512" "1024"
+do
+	for id in 1 2 3 4 5
+	do
+		for r in 1 2 4 8 16 32
+		do
+			for p in 1 2 4 8 16
+			do
+				for bs in 1
+				do
+					echo "#!/bin/bash" >>script_temp
+					echo "#PBS -l walltime=5:00" >>script_temp
+					if [ $p -eq 16 ]
+					then
+						echo "#PBS -l nodes=4:ppn=4" >>script_temp
+					elif [ $p -eq 8 ]
+					then
+						echo "#PBS -l nodes=2:ppn=4" >>script_temp
+					elif [ $p -eq 4 ]
+					then
+						echo "#PBS -l nodes=1:ppn=4" >>script_temp
+					elif [ $p -eq 2 ]
+					then
+						echo "#PBS -l nodes=1:ppn=2" >>script_temp
+					else
+						echo "#PBS -l nodes=$p:ppn=1" >>script_temp
+					fi
+
+					echo "#PBS -o parallel_GE_shubham.output" >>script_temp
+					echo "#PBS -e parallel_GE_shubham.error" >>script_temp
+					echo "cd ~sjain39/par_ge_shubham" >>script_temp
+					echo "/usr/common/mpich2/bin/mpiexec ./par_ge_basic $n $id matrix_${n}_${id}.txt $bs $r 1 test1 > output.txt 2>&1" >>script_temp
+					qsub -V -q student_short script_temp
+					rm script_temp
+					sleep 120
+				done
+			done
+		done
+	done
+done
